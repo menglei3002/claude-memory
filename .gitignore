@@ -1,0 +1,4 @@
+# Transient session files
+*.jsonl
+*.json
+!config.json

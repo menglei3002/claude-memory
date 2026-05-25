@@ -1,0 +1,6 @@
+- [AI Video Workflow](ai_video_workflow.md) — First AI video project workflow and lessons: use 剪映 for post-production, not FFmpeg CLI
+- [Claude Data Location](claude_data_location.md) — C drive space low; Claude data stored at D:\AI\ClaudeWork\.claude via junction
+- [All Projects Index](mywork_projects.md) — Complete inventory of all 14 projects under D:\AI\mywork\
+- [PDFGOD Project](pdfgod_project.md) — Tauri PDF toolkit at D:\AI\mywork\PDFGOD
+- [mp3zhuanhuan Project](mp3zhuanhuan_project.md) — 音乐加密解密转MP3桌面工具，Frida+takiyasha+FFmpeg
+- [AI Music Project](aimusic_project.md) — 音乐工厂 at D:\AI\mywork\AIMUSIC, 搞笑打工人歌曲, ACE-Step+FFmpeg+剪映流水线
