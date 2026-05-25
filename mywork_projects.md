@@ -29,38 +29,37 @@ metadata:
 - **路径**: `D:\AI\mywork\hailuoshipin`
 - **用途**: 用 MiniMax Hailuo 生成 AI 视频片段，组装成 MV
 - **当前作品**: 《推开世界的门》(杨乃文) — 5 个 AI 场景 + 字幕
-- **无 git**
+- **Git**: github.com/menglei3002/hailuoshipin
 
 ### PHILIPSCTtube — 飞利浦 CT 球管讲解视频
 - **路径**: `D:\AI\mywork\PHILIPSCTtube`
 - **用途**: 飞利浦纳米 CT 球管工程深度讲解（8 场景，~9.5 分钟）
 - **工具链**: Python 生成背景 + Remotion 3D 动画 + 剪映整合
-- **产出**: `philips_nano_ct_tube.mp4` (90 MB)
-- **无 git**
+- **产出**: `philips_nano_ct_tube.mp4` (90 MB，gitignore 排除)
+- **Git**: github.com/menglei3002/philips-ct-tube
 
 ### xunlian — CT 维修培训内容
 - **路径**: `D:\AI\mywork\xunlian`
 - **用途**: 飞利浦 Brilliance 64 排 CT 换球管 3D 动画教学视频
 - **内容**: 33 镜头脚本 + 维修流程文档 + 3D 制作指南 + 剪映大纲
-- **无 git**
+- **Git**: github.com/menglei3002/xunlian-ct-training
 
 ### hushichaxun — 护士资格查询工具
 - **路径**: `D:\AI\mywork\hushichaxun`
 - **用途**: 爬取四川省政务服务网护士执业资格数据
-- **目标**: 查询"邓雨婷/邓雨亭"在成都各医院的注册信息
 - **工具**: Python (AES 加密 API 调用) + PowerShell + Bash
-- **无 git**
+- **Git**: github.com/menglei3002/hushichaxun **(私有仓库)**
 
 ### wenzizhengli — 文字整理 + 自动存档
 - **路径**: `D:\AI\mywork\wenzizhengli`
 - **用途**: 视频创作构思文档 + 自动 git 存档脚本
 - **关键文件**: `auto-save.sh` — 扫描 `D:/AI/` 下所有 git 仓库自动提交
-- **Git**: 有，本地无 remote
+- **Git**: github.com/menglei3002/wenzizhengli
 
 ### QUANJU — 全聚 AI 工作区
 - **路径**: `D:\AI\mywork\QUANJU`
 - **用途**: 通用 AI 辅助任务工作区，配置了知识库引用
-- **无 git**
+- **Git**: github.com/menglei3002/quanju-ai
 
 ### PDFGOD — Tauri PDF 工具
 - 见 [[pdfgod-project]]
