@@ -4,3 +4,4 @@
 - [PDFGOD Project](pdfgod_project.md) — Tauri PDF toolkit at D:\AI\mywork\PDFGOD
 - [mp3zhuanhuan Project](mp3zhuanhuan_project.md) — 音乐加密解密转MP3桌面工具，Frida+takiyasha+FFmpeg
 - [AI Music Project](aimusic_project.md) — 音乐工厂 at D:\AI\mywork\AIMUSIC, 搞笑打工人歌曲, ACE-Step+FFmpeg+剪映流水线
+- [Hushichaxun Project](hushichaxun_project.md) — 护士资格查询+法律维权文书，四川护士API查询+继承纠纷投诉模板

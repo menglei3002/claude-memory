@@ -44,10 +44,11 @@ metadata:
 - **内容**: 33 镜头脚本 + 维修流程文档 + 3D 制作指南 + 剪映大纲
 - **Git**: github.com/menglei3002/xunlian-ct-training
 
-### hushichaxun — 护士资格查询工具
+### hushichaxun — 护士资格查询 + 法律维权文书
 - **路径**: `D:\AI\mywork\hushichaxun`
-- **用途**: 爬取四川省政务服务网护士执业资格数据
-- **工具**: Python (AES 加密 API 调用) + PowerShell + Bash
+- **用途**: 四川省执业护士系统API查询 + 继承纠纷法律文书生成（投诉模板/维权指南）
+- **工具**: Python (AES加密API调用) + python-docx + Google SpeechRecognition + ffmpeg
+- **近期产出**: 法律投诉文书_三合一_v2.docx, 遗产继承与骨灰追索_法律维权指南_v3.docx, 护士投诉举报全方位指南.docx 等
 - **Git**: github.com/menglei3002/hushichaxun **(私有仓库)**
 
 ### wenzizhengli — 文字整理 + 自动存档
